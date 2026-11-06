@@ -1,45 +1,51 @@
+<div align="center">
+
 # Samuel Fomo 👋
 
-**Développeur logiciel · Backend, applications web & solutions métier**  
+### Développeur logiciel · Backend, applications web & solutions métier
+
 📍 Douala, Cameroun · 💼 IMEDIATIS TechLab SARL
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Langage-3178C6?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-4FC08D?logo=vuedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Donn%C3%A9es-4169E1?logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?logo=linux&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-Samuelfomo-181717?logo=github)](https://github.com/Samuelfomo)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-Je conçois des API, interfaces et applications métier, depuis le modèle de données jusqu’à la mise en production. Titulaire d’une **Licence technologique en Génie logiciel (IUT de Ngaoundéré, 2024)**, je m’intéresse à la fiabilité, la sécurité et la maintenabilité du logiciel.
+</div>
 
-## 📚 Mon catalogue de projets
+## 👨‍💻 À propos
 
-**[Explorer les 22 fiches de projets →](./projets/README.md)**
+Je développe des **API, applications web et solutions métier**, de la conception des données jusqu'au déploiement. Je travaille sur l'architecture backend, les interfaces et l'intégration de services avec une attention particulière à la **sécurité**, à la **fiabilité** et à la **maintenabilité**.
 
-Chaque fiche décrit le besoin, le périmètre connu, l’état du projet et son historique d’évolution. Les projets comprennent des **réalisations professionnelles**, des **collaborations**, des **projets personnels** et des **idées en exploration** ; leurs droits et statuts ne sont pas confondus.
+🎓 Licence technologique en Génie logiciel — IUT de Ngaoundéré (2024).
 
-| Sélection | Sujet |
-|---|---|
-| [Toké](./projets/toke/README.md) | SaaS de pointage, gestion des équipes et plannings |
-| [Pricera](./projets/pricera/README.md) | Collecte et exploitation de données de prix |
-| [CommisRH](./projets/commisrh/README.md) | Gestion des commissions et contrôle des périodes |
-| [VoteNow](./projets/votenow/README.md) | Plateforme de vote et de gestion d’événements |
-| [Vigil](./projets/vigil/README.md) | Concept de vérification d’informations |
-| [God Mind](./projets/god-mind/README.md) | Décomposition et suivi d’objectifs |
+## 🛠️ Compétences
 
-## 🔧 Compétences
+- **Backend :** Node.js, TypeScript, Express, API REST
+- **Frontend :** Vue.js, JavaScript, HTML, CSS, Next.js
+- **Données :** PostgreSQL, Sequelize, Redis, PostGIS
+- **Infrastructure :** Linux (Ubuntu), Git, Nginx, Apache, PM2
 
-**Backend :** Node.js, TypeScript, Express, API REST  
-**Frontend :** Vue.js, JavaScript, HTML, CSS, Next.js  
-**Données :** PostgreSQL, Sequelize, Redis, PostGIS  
-**Exploitation :** Git, Ubuntu, Nginx, Apache, PM2
+## 🚀 Réalisations sélectionnées
 
-## 📈 Activité GitHub
+| Projet | Présentation | Ressource |
+|---|---|---|
+| **Toké** | Solution SaaS de pointage, équipes et plannings | [Dépôt](https://github.com/Samuelfomo/toke) |
+| **Pricera** | Collecte et exploitation de données de prix | [Dépôt](https://github.com/Samuelfomo/priceraApi) |
+| **CRESAF** | Réalisation d'une présence web institutionnelle | [Frontend](https://github.com/Samuelfomo/cresaf-front) |
 
-![Statistiques de contribution](https://github-readme-stats.vercel.app/api?username=Samuelfomo&show_icons=true&hide_border=true)
+*Ces travaux incluent des contributions professionnelles et des réalisations en équipe ; les dépôts référencés ne constituent pas une revendication de propriété exclusive.*
 
-*Ce bloc dépend d’un service externe et peut être temporairement indisponible ; il n’inclut pas nécessairement les contributions privées.*
+## 🎯 Mes centres d'intérêt
 
-## 🔗 Liens
+Architecture des API · SaaS · Modélisation de données · Sécurité applicative · Automatisation · Produits numériques utiles
 
-- [Dépôts GitHub](https://github.com/Samuelfomo?tab=repositories)
-- [Documentation des projets](./projets/README.md)
+## 🔗 Pour aller plus loin
+
+- [Parcourir mes dépôts GitHub](https://github.com/Samuelfomo?tab=repositories)
+- Portfolio de projets sélectionnés : *en préparation*
 
 ---
 
-*Documenter le chemin parcouru compte autant que présenter le résultat.*
+<div align="center"><sub>Concevoir des solutions utiles, robustes et durables.</sub></div>
