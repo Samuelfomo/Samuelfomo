@@ -44,7 +44,7 @@ Architecture des API · SaaS · Modélisation de données · Sécurité applicat
 ## 🔗 Pour aller plus loin
 
 - [Parcourir mes dépôts GitHub](https://github.com/Samuelfomo?tab=repositories)
-- Portfolio de projets sélectionnés : *en préparation*
+- **[Portfolio de projets — études de cas publiques](https://github.com/Samuelfomo/project-portfolio)**
 
 ---
 
